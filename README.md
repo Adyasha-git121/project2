@@ -1,4 +1,4 @@
 # New project 
 
 This project was created from local system
-By adyasha
+By Adyasha Sahoo.
